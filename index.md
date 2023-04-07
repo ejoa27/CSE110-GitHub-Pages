@@ -32,7 +32,7 @@ I am Mathematics-Computer Science student. I was born in New York, but grew up i
 
 
 ## **Goals/Tasks I want to complete this quarter**
-- [ ] Get more comfortable with Javascript
-- [ ] Finish my CFG Tester on flap.js
-- [ ] Learn to work with others on programming projects in flap.js and CSE110
-- [ ] Have fun meeting new people
+- [ ]  Get more comfortable with Javascript
+- [ ]  Finish my CFG Tester on flap.js
+- [ ]  Learn to work with others on programming projects in flap.js and CSE110
+- [ ]  Have fun meeting new people
