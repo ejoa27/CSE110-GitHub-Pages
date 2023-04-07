@@ -15,7 +15,7 @@ I am Mathematics-Computer Science student. I was born in New York, but grew up i
 
  I am currently working on developing a CFG tester for [flap.js](https://flapjs.web.app/#), a tool used in CSE105 to draw DFAs, NFAs, and Turing Machines. Right now, I am learning Javascript as I continue to work on flap.js. I consider myself a good programmer in that I do not always find the most efficient method, but I believe I make up for it through effort and hardwork.
 
- ## *Pictures I want to share*
+## *Spring Break*
  
  Over Spring Break, I went to the BioDome in Canada, and here are some of the animals I saw there:
 * Penguin
