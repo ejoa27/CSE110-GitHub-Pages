@@ -18,9 +18,11 @@ I am Mathematics-Computer Science student. I was born in New York, but grew up i
 1. Penguin
 
 ![P](Penguin.jpg)
+
 2. Capybara
 
 ![C](Capybara.jpg)
+
 3. Jellyfish
 
 ![J](Jellyfish.jpg)
