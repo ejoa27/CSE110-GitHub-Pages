@@ -4,10 +4,10 @@
 
 I am Mathematics-Computer Science student. I was born in New York, but grew up in Dominican Republic, so I am able to speak Spanish and English fluently. I came to San Diego mostly for college, and I plan to eventually find a job somewhere closer to family.
 ### Things I like:
-* Hobby: playing video games and running
-* Favorite Food: ice cream
-* Favorite show: Brooklyn Nine-Nine
-* Favorite quote from the show: 
+1. Hobby: playing video games and running
+2. Favorite Food: ice cream
+3. Favorite show: Brooklyn Nine-Nine
+4. Favorite quote from the show: 
    >“Cool, cool, cool, cool, cool. No doubt, no doubt, no doubt.” - Jake Peralta
 
 ## *What am I doing?*
@@ -15,15 +15,15 @@ I am Mathematics-Computer Science student. I was born in New York, but grew up i
 
  ## *Pictures I want to share*
  Over Spring Break, I went to the BioDome in Canada, and here are some of the animals I saw there:
-1. Penguin
+* Penguin
 
 ![P](Penguin.jpg)
 
-2. Capybara
+* Capybara
 
 ![C](Capybara.jpg)
 
-3. Jellyfish
+* Jellyfish
 
 ![J](Jellyfish.jpg)
 
